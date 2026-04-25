@@ -1,0 +1,18 @@
+{
+  "name": "digital-letters",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "framer-motion": "^10.0.0",
+    "uuid": "^9.0.0",
+    "firebase": "^10.0.0"
+  }
+}

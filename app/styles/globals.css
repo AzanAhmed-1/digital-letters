@@ -1,0 +1,13 @@
+body {
+  font-family: serif;
+  background: #fdf6e3;
+}
+input, textarea {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+button {
+  background: #8b0000;
+  color: white;
+  padding: 10px;
+}
